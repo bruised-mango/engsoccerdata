@@ -1,5 +1,15 @@
-# Unecessary holdovers from origin repo
-munge/
+# Unecessary holdovers from original engsoccerdata repo
+R/
+data-raw/munge/
+data/
+man/
+.Rbuildignore
+.gitattributes
+DESCRIPTION
+NAMESPACE
+NEWS.md
+cran-comments.md
+engsoccerdata.Rproj
 
 # OS generated files #
 ######################
